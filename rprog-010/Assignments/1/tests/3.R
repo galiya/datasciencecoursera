@@ -1,14 +1,14 @@
 test.calculateCorrelationsForThreshold150 <- function() 
 {
- # incomplete
+  # incomplete
   
-#   expectedHead <- c(-0.01896,-0.14051,-0.04390,-0.06816,-0.12351,-0.07589)
-#   expectedSummary <- c("Min." = -0.2110, "1st Qu." =  -0.0500, "Median" = 0.0946 , "Mean" = 0.1250, "3rd Qu." = 0.2680, "Max." = 0.7630)
-#   
-#   actual <- corr("specdata", 150)
-#   print(head(actual))
-#   print(summary(actual))
-#   checkEquals(expectedHead, head(actual))
+  #   expectedHead <- c(-0.01896,-0.14051,-0.04390,-0.06816,-0.12351,-0.07589)
+  #   expectedSummary <- c("Min." = -0.2110, "1st Qu." =  -0.0500, "Median" = 0.0946 , "Mean" = 0.1250, "3rd Qu." = 0.2680, "Max." = 0.7630)
+  #   
+  #   actual <- corr("specdata", 150)
+  #   print(head(actual))
+  #   print(summary(actual))
+  #   checkEquals(expectedHead, head(actual))
   #checkEquals(expectedSummary, as.vector(summary(actual))
 }
 
